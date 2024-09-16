@@ -1,0 +1,28 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.xcscheme
+*.xctest
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Derived data
+DerivedData/
+
+# Build artifacts
+build/
+*.app
+*.dSYM
+
+# User-specific files
+*.swp
+*.swo
